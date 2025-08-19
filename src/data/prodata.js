@@ -1,0 +1,100 @@
+let prodata =[
+    {
+        id:"1",
+        name:"women cloths",
+        pic:"./Images/t1.jpg",
+        price:"3000",
+    },
+    {
+        id:"2",
+        name:"perfume",
+        pic:"./Images/p1.jpg",
+        price:"3400",
+    },
+    {
+        id:"3",
+        name:"womens cloths",
+        pic:"./Images/t3.jpg",
+        price:"3700",
+    },
+    {
+        id:"4",
+        name:"jacket",
+        pic:"./Images/jjj1.jpg",
+        price:"3900",
+    },
+    {
+        id:"5",
+        name:"womens cloths",
+        pic:"./Images/t2.jpg",
+        price:"4000",
+    },
+    {
+        id:"6",
+        name:"casual dress",
+        pic:"./Images/t4.jpg",
+        price:"4500",
+    },
+    {
+        id:"7",
+        name:"Glamor",
+        pic:"./Images/p2.jpg",
+        price:"3800",
+    },
+    {
+        id:"8",
+        name:"bag",
+        pic:"./Images/h2.jpg",
+        price:"4300",
+    },
+    {
+        id:"9",
+        name:"ring",
+        pic:"./Images/j1.jpg",
+        price:"2500",
+    },
+    {
+        id:"10",
+        name:"jacket",
+        pic:"./Images/jjj2.jpg",
+        price:"4800",
+    },
+    {
+        id:"11",
+        name:"jacket",
+        pic:"./Images/jjj3.jpg",
+        price:"5000",
+    },
+    {
+        id:"12",
+        name:"women dress",
+        pic:"./Images/t3.jpg",
+        price:"6000",
+    },
+    {
+        id:"13",
+        name:"shoes",
+        pic:"./Images/s3.jpg",
+        price:"2000",
+    },
+    {
+        id:"14",
+        name:"bracelet",
+        pic:"./Images/b2.jpg",
+        price:"3500",
+    },
+    {
+        id:"15",
+        name:"fragrance",
+        pic:"./Images/f2.jpg",
+        price:"4700",
+    },
+    {
+        id:"16",
+        name:"bracelet",
+        pic:"./Images/b1.jpg",
+        price:"3000",
+    },
+]
+
+export default prodata;
